@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/alkadir-clone-reactjs-responsive/static/css/main.2940dd06.css",
+    "main.js": "/alkadir-clone-reactjs-responsive/static/js/main.4ebe2653.js",
+    "static/js/787.5cbd96e4.chunk.js": "/alkadir-clone-reactjs-responsive/static/js/787.5cbd96e4.chunk.js",
+    "static/media/background.jpg": "/alkadir-clone-reactjs-responsive/static/media/background.3158d4794e16845445c7.jpg",
+    "static/media/Nutrition.jpg": "/alkadir-clone-reactjs-responsive/static/media/Nutrition.b6ddd8586150c9529855.jpg",
+    "static/media/Meal.jpg": "/alkadir-clone-reactjs-responsive/static/media/Meal.21d7b70e1d24c2854800.jpg",
+    "static/media/Desi.jpg": "/alkadir-clone-reactjs-responsive/static/media/Desi.a5f74db52abd702bcd0e.jpg",
+    "static/media/Fish.jpg": "/alkadir-clone-reactjs-responsive/static/media/Fish.cec99691951a841840bb.jpg",
+    "static/media/Zinger.jpg": "/alkadir-clone-reactjs-responsive/static/media/Zinger.b5d338f38ed9a1921746.jpg",
+    "static/media/Burger.jpg": "/alkadir-clone-reactjs-responsive/static/media/Burger.b6720fab5520b162dd6e.jpg",
+    "static/media/feature-img.jpg": "/alkadir-clone-reactjs-responsive/static/media/feature-img.0e51d4f249058b09d2c0.jpg",
+    "static/media/cooking.jpg": "/alkadir-clone-reactjs-responsive/static/media/cooking.2b8a9795001739466a3a.jpg",
+    "static/media/profile.jpg": "/alkadir-clone-reactjs-responsive/static/media/profile.274a03f6d481030388da.jpg",
+    "static/media/profile1.jpg": "/alkadir-clone-reactjs-responsive/static/media/profile1.19086a5190ca1687c9d5.jpg",
+    "static/media/profile3.jpg": "/alkadir-clone-reactjs-responsive/static/media/profile3.390e3ef4fb42b34ec221.jpg",
+    "static/media/profile2.jpg": "/alkadir-clone-reactjs-responsive/static/media/profile2.e8e73be8644b6b979b29.jpg",
+    "static/media/logo (1).svg": "/alkadir-clone-reactjs-responsive/static/media/logo (1).6fc22e5fbdec6b9338921613bddec0dd.svg",
+    "static/media/map2.png": "/alkadir-clone-reactjs-responsive/static/media/map2.03097b79486453eddbd7.png",
+    "static/media/logo-new.svg": "/alkadir-clone-reactjs-responsive/static/media/logo-new.2ed4ac9dc0e9e60c50a6191226078154.svg",
+    "static/media/slick.svg": "/alkadir-clone-reactjs-responsive/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/alkadir-clone-reactjs-responsive/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/alkadir-clone-reactjs-responsive/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/alkadir-clone-reactjs-responsive/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/alkadir-clone-reactjs-responsive/index.html",
+    "main.2940dd06.css.map": "/alkadir-clone-reactjs-responsive/static/css/main.2940dd06.css.map",
+    "main.4ebe2653.js.map": "/alkadir-clone-reactjs-responsive/static/js/main.4ebe2653.js.map",
+    "787.5cbd96e4.chunk.js.map": "/alkadir-clone-reactjs-responsive/static/js/787.5cbd96e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2940dd06.css",
+    "static/js/main.4ebe2653.js"
+  ]
+}
