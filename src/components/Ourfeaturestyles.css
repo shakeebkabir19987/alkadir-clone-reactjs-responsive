@@ -1,0 +1,49 @@
+body{
+  background-color: lightgray;
+ }
+
+
+ @media (max-width: 1200px) {
+  .firstrow{
+      margin-left: "0px";
+    
+    justify-content: space-evenly;
+  }
+
+
+  .secondrow{
+
+      margin-left: "0px";
+  
+    justify-content: space-evenly;
+  }
+
+  .mainHeading{
+    
+
+  }
+  .subHeading{
+    
+  }
+
+
+ }
+
+ 
+
+ @media (max-width: 1222px) {
+
+    .rightsection div {
+      display: none;
+    }
+
+    
+  }
+ 
+
+
+
+
+ 
+
+ 

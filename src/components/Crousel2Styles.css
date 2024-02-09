@@ -1,0 +1,57 @@
+
+@media (max-width: 1200px) {
+
+.slideText{
+    /* color: red; */
+    font-size: "30px";
+    font-weight: 100;
+}
+}
+
+
+
+
+
+/* Default style for all screen sizes */
+.pone1 p {
+    font-size: 46px;
+}
+
+/* Media query for screens with a minimum width of 576px */
+@media (min-width: 576px) {
+    /* .pone1{
+        height: 50%;
+    } */
+    .pone1 p {
+        /* color: pink; */
+        font-size: 15px; /* Adjust the font size for this screen width */
+    }
+}
+
+/* Media query for screens with a minimum width of 768px */
+@media (min-width: 768px) {
+    .pone1 p {
+        /* color: green; */
+        font-size: 22px; /* Adjust the font size for this screen width */
+      
+    }
+
+   
+}
+
+/* Media query for screens with a minimum width of 992px */
+@media (min-width: 992px) {
+    .pone1 p {
+        /* color: red; */
+        font-size: 48px; /* Adjust the font size for this screen width */
+    }
+}
+
+/* Media query for screens with a minimum width of 1200px */
+@media (min-width: 1200px) {
+    .pone1 p {
+        /* color: green; */
+        font-size: 50px; /* Adjust the font size for this screen width */
+      
+    }
+}
